@@ -2,7 +2,8 @@
 <h2>Content</h2>
 <h5>1. Requirement</h5>
 <h5>2. Interface</h5>
-<h5>3. Setup and Configuration</h5>
+<h5>3. Diagram</h5>
+<h5>4. Setup and Configuration</h5>
 <h2>1. Requirement</h2>
 <pre>
         1. .NET SDK
@@ -32,6 +33,16 @@
 ![14](https://github.com/Shakil-md-abdullah-al/Pharmacy-Management-System-Using-C-Sharp/assets/65440571/533571e5-3632-452e-803c-d6135a28cbf0)
 ![15](https://github.com/Shakil-md-abdullah-al/Pharmacy-Management-System-Using-C-Sharp/assets/65440571/98cc2cba-1329-4ae3-9a08-d4abb4f598f0)
 
+
+<h2>3. Diagram</h2>
+
+<h4>Use Case Diagram</h4>
+
+![Pharmacy UML](https://github.com/Shakil-md-abdullah-al/Pharmacy-Management-System-Using-C-Sharp/assets/65440571/bd5bd156-9f54-4596-a496-639fefba8b0e)
+
+<h4>Entity Relationship Diagram</h4>
+
+![Pharmacy 001 (1)](https://github.com/Shakil-md-abdullah-al/Pharmacy-Management-System-Using-C-Sharp/assets/65440571/3b0945bf-d4e6-4070-aba5-93b12b0665b6)
 
 
 
