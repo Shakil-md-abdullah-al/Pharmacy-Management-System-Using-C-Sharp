@@ -12,7 +12,8 @@
 <h2>2. Interface</h2>
 "Revolutionize your pharmacy operations with our cutting-edge Pharmacy Management System. This desktop application, crafted using advanced programming, is tailor-made for medicine and pharmaceutical shops. Easily track stock availability, manage quantities, and identify top-selling items. Streamline your business for greater efficiency and success."
 <b>Here is a simple overview of the project</b> </br></br></br>
-![1](https://github.com/Shakil-md-abdullah-al/Pharmacy-Management-System-Using-C-Sharp/assets/65440571/2a289ef3-7937-460f-81db-445e89a4ade8)
+
+![1](https://github.com/Shakil-md-abdullah-al/Pharmacy-Management-System-Using-C-Sharp/assets/65440571/8f727fc2-993b-4bd4-9b32-c91f70f4663d)
 
 
 
