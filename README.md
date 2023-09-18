@@ -5,8 +5,7 @@
 <h5>3. Setup and Configuration</h5>
 <h2>1. Requirement</h2>
 <pre>
-        1. PHP version 8.0.2 or above
-        2. Composer
-        3. Node JS
-        4. Laravel Version 10
+        1. .NET SDK
+        2. Microsoft SQL Server 2019
+        3. Visual Studio
 </pre>
